@@ -1,4 +1,4 @@
-### Hi there 👋, Brayan parra
+
 #### Software Developer
 ![Software Developer](https://media.giphy.com/media/9iv4ErObYQvrW/giphy.gif)
 
