@@ -1,8 +1,7 @@
 
-#### Software Developer
+### Hi there 👋
 ![Software Developer](https://media.giphy.com/media/9iv4ErObYQvrW/giphy.gif)
 
-### Hi there 👋
 I'm Brayan from Colombia, I'm a software developer who loves technology and creating apps.
 
 Skills: JAVA/ REACT / JS / HTML / CSS
