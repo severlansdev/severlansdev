@@ -5,6 +5,7 @@
 I'm Brayan from Colombia, I'm a software developer who loves technology and creating apps.
 
 ## Skills and Experience: 
+Javascript/
 JAVA/
 REACT/ 
 JS / HTML / CSS
