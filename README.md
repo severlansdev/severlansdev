@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&title=DevOps%20Engineer%20%26%20SRE%20Architect&fontSize=40&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Brayan%20PD&desc=DevOps%20Engineer%20%26%20SRE%20Architect&fontSize=50&fontAlignY=35&descSize=20&descAlignY=55&animation=fadeIn" width="100%"/>
 </div>
+
 
 <div align="center">
   <p><b>I help companies build resilient, secure, and cost-optimized cloud infrastructure.</b></p>
