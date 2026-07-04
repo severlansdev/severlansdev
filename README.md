@@ -1,15 +1,36 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Brayan%20PD&fontSize=80&animation=fadeIn" />
+</div>
 
-### Hi there 👋
-![Software Developer](https://media.giphy.com/media/9iv4ErObYQvrW/giphy.gif)
+<h1 align="center">DevOps Engineer & SRE Architect ☁️</h1>
 
-I'm Brayan from Colombia, I'm a software developer who loves technology and creating apps.
+<p align="center">
+  <strong>I help companies build resilient, secure, and cost-optimized cloud infrastructure.</strong>
+</p>
 
-## Skills and Experience: 
-JAVASCRIPT/
-JAVA/
-REACT/ 
-JS / HTML / CSS
+### 🚀 What I Do
+*   **Cloud Architecture:** AWS (EC2, ECS, EKS, RDS, VPC) & Multi-cloud strategies.
+*   **Infrastructure as Code (IaC):** Terraform & Ansible for reproducible environments.
+*   **CI/CD Pipelines:** GitHub Actions, GitLab CI (Zero-downtime deployments).
+*   **Observability:** Prometheus, Grafana, ELK/Loki Stack for deep system insights.
+*   **FinOps:** Cloud cost auditing and automated resource optimization.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/severlansdev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/brian-parra-01a4551a1/)
+### 🛠️ Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white" />
+</p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=severlansdev)](https://github.com/anuraghazra/github-readme-stats)
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=severlansdev&show_icons=true&theme=radical" />
+</p>
+
+---
+<p align="center">
+  <i>Open to remote freelance opportunities on <b>Upwork</b>. Let's scale your infrastructure.</i>
+</p>
