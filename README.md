@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Brayan%20PD&desc=DevOps%20and%20SRE%20Architect&fontSize=55&fontAlignY=35&descSize=22&descAlignY=55&animation=fadeIn" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=2496ED&center=true&vCenter=true&width=800&height=100&lines=Brayan+PD;DevOps+Engineer+%26+SRE+Architect;Cloud+Infrastructure+Expert" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -11,7 +11,7 @@
 - **Cloud Architecture:** AWS (EC2, ECS, EKS, RDS, VPC) & Multi-cloud strategies.
 - **Infrastructure as Code (IaC):** Terraform & Ansible for reproducible environments.
 - **CI/CD Pipelines:** GitHub Actions, GitLab CI (Zero-downtime deployments).
-- **Observability:** Prometheus, Grafana, ELK/Loki Stack for deep system insights.
+- **Observability:** Dynatrace, Prometheus, Grafana, ELK Stack for deep system insights.
 - **FinOps:** Cloud cost auditing and automated resource optimization.
 
 ### 🛠️ Tech Stack
@@ -22,6 +22,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge&logo=dynatrace&logoColor=white" />
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
 </p>
 
