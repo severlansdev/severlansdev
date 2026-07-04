@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=2496ED&center=true&vCenter=true&width=800&height=100&lines=Brayan+PD;DevOps+Engineer+%26+SRE+Architect;Cloud+Infrastructure+Expert" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Brayan%20PD&desc=DevOps%20and%20SRE%20Architect&fontSize=55&fontAlignY=35&descSize=22&descAlignY=55&animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
