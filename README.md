@@ -27,8 +27,9 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=severlansdev&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=severlansdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="severlansdev's GitHub Stats" />
 </p>
+
 
 ---
 <p align="center">
